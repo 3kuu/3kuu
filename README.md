@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @3kuu
-- 👀 I’m interested in Cybersecurity and Web Development
-- 🌱 I’m currently learning what is required to engage in both Red & Blue team engagements.
-- 💞️ I’m looking to collaborate on (WIP)
-- 📫 How to reach me: You can reach me on my LinkedIn attached to my profile here!
+- 👀 I’m interested in Game & Web Development
+- 🌱 I'm currently learning C#
+- 💞️ I’m looking to start making some project ideas come to life. 
+- 📫 How to reach me: You can reach me on Instgram @whoiseku or DM me on Discord @g.u.h. (just lmk you came from GitHub)
 
 <!---
 3kuu/3kuu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
